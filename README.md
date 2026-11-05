@@ -13,7 +13,6 @@
     <header class="encabezado">
         <div class="logo">🛡️ RADAR DIGITAL</div>
         <span class="etiqueta">MATERIA: LEGISLACIÓN INFORMÁTICA</span>
-        <p"etiqueta">ALUMNO: Luis d 4 d Ing. Sistemas.</p>
     </header>
     <main class="contenedor">
 
@@ -195,7 +194,7 @@
 
     <footer>
         <p>RADAR D PRIVACIDAD DIGITAL</p>
-        <p>Tu información.      Tus decisiones.     Tus derechos.</p>
+        <p>Proyecto by: Luis. Ing. Sistemas</p>
     </footer>
 
 </body>
